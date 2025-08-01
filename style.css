@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, sans-serif;
+   background-color: blueviolet;
+    line-height: 1.6;
+
+    margin: 30px;
+    padding: 39px;
+}
+#highlight{
+background-color: lightseagreen;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#ordered-list {
+    background-color: lightblue;
+    padding: 0px;
+    border-radius: 5px;
+}
+#unordered-list {
+    background-color: rgb(122, 75, 75);
+    padding: 10px;
+    border-radius: 5px;
+}
+#email {
+    color: black;
+}
+#name{
+    color: black;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+#age{
+    color: yellow;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+#password{
+    color: blue;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
